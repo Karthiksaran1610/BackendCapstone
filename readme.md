@@ -28,7 +28,7 @@
 
 - **Authentication:** JWT (JSON Web Tokens)
 
-- **Deployment:** rendor
+- **Deployment:** render
 
 *** 
 
@@ -77,5 +77,5 @@
 ***
 ## Deployment
 
-- Here to view the Backend Deployed URL:
+- Here to view the Backend Deployed URL:https://backendcapstone10.onrender.com
 
